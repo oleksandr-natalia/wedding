@@ -16,8 +16,6 @@ export const metadata: Metadata = {
   title: "Oleksandr & Natalia Wedding",
   description: "Запрошення на весілля Олександра та Наталії",
 
-  metadataBase: new URL("https://oleksandr-natalia.github.io"),
-
   openGraph: {
     title: "Oleksandr & Natalia Wedding",
     description: "Запрошення на весілля Олександра та Наталії",
@@ -31,13 +29,6 @@ export const metadata: Metadata = {
         height: 630,
       },
     ],
-  },
-
-  twitter: {
-    card: "summary_large_image",
-    title: "Oleksandr & Natalia Wedding",
-    description: "Запрошення на весілля",
-    images: ["/wedding/i11.jpg"],
   },
 };
 
