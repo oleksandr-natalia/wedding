@@ -237,7 +237,7 @@ export default function Home() {
               <div style={{ backgroundImage: "url('/sasa/church.svg')" }} className="w-15 h-15 mx-auto bg-cover bg-center">
               </div>
 
-              <a href="https://maps.app.goo.gl/8TsKPmcxDb7uXvnm7" >
+              <a href="https://www.pornhub.com/view_video.php?viewkey=6a173400409c2" >
                 <Btn text="Локація"></Btn>
               </a>
 
