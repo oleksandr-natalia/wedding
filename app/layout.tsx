@@ -13,6 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://oleksandr-natalia.github.io"),
   title: "Oleksandr & Natalia Wedding",
   description: "Запрошення на весілля Олександра та Наталії",
 
