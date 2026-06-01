@@ -12,7 +12,7 @@
 
 import type { NextConfig } from "next";
 
-const repo = "sasa"; // 👈 назва твого GitHub репозиторію
+const repo = "wedding"; // 👈 назва твого GitHub репозиторію
 
 const nextConfig: NextConfig = {
   output: "export",
