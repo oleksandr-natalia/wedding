@@ -1,4 +1,4 @@
-:HL["/sasa/_next/static/chunks/0hftx2o4zkptj.css","style"]
+:HL["/wedding/_next/static/chunks/0hftx2o4zkptj.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Tangerine&display=swap","style"]
 :HL["https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap","style"]
 :HL["https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap","style"]
