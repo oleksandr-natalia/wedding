@@ -118,7 +118,7 @@ export default function Home() {
 
     await fetch("https://script.google.com/macros/s/AKfycbzCQJTLT_aPzldmhe3jcRBxZ0ScjyXg_u7t1BX3t_y-WFpQhN1BWfpkyXEtmLP5orvP/exec", { method: "POST", body: fd });
 
-    setLoading(true)
+    setLoading(true);
 
     setName("");
     setAttending(null);
