@@ -115,14 +115,11 @@ export default function Home() {
     fd.append("name", name);
     fd.append("attending", attending);
     fd.append("guest", guest);
-
-    await fetch("https://script.google.com/macros/s/AKfycbzCQJTLT_aPzldmhe3jcRBxZ0ScjyXg_u7t1BX3t_y-WFpQhN1BWfpkyXEtmLP5orvP/exec", { method: "POST", body: fd });
-
     setLoading(true);
-
     setName("");
     setAttending(null);
     setGuest("");
+    await fetch("https://script.google.com/macros/s/AKfycbzCQJTLT_aPzldmhe3jcRBxZ0ScjyXg_u7t1BX3t_y-WFpQhN1BWfpkyXEtmLP5orvP/exec", { method: "POST", body: fd });
 
   };
 

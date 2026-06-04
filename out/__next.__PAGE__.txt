@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 2:I[47257,["/wedding/_next/static/chunks/0dbhjjzl8qfwv.js"],"ClientPageRoot"]
-3:I[31713,["/wedding/_next/static/chunks/0dbhjjzl8qfwv.js","/wedding/_next/static/chunks/0qp_nsk5bc~l1.js"],"default"]
+3:I[31713,["/wedding/_next/static/chunks/0dbhjjzl8qfwv.js","/wedding/_next/static/chunks/0h88nd0bng64x.js"],"default"]
 6:I[97367,["/wedding/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/wedding/_next/static/chunks/0qp_nsk5bc~l1.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"167I58v8O7GSIcfBSCPd9"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/wedding/_next/static/chunks/0h88nd0bng64x.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"aXhpkg7iepP77096KaCAn"}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
